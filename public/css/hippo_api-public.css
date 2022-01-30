@@ -1,0 +1,41 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .form-outline.radio_wrapper {
+      border: 2px solid #d3d3d3;
+    position: relative;
+}
+.form-outline.radio_wrapper label {
+    margin: 14px 0px;
+    padding: 5px 0px;
+}
+.fa, .fas {
+ 
+    font-weight: 900;
+    font-size: 50px;
+ padding: 2px;
+}
+.form-outline.radio_wrapper p {
+    font-size: small;
+    padding-right: 10px;
+}
+.form-outline.radio_wrapper p {
+    font-size: small;
+    padding-right: 10px;
+    height: 70px;
+}
+span.astrik {
+    color: #ff0000;
+}
+.form-outline.radio_wrapper input {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 10px;
+}
+.form-outline.radio_wrapper label {
+    margin: 14px 0px;
+    padding: 5px 0px;
+}
