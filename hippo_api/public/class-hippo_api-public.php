@@ -571,7 +571,7 @@ class Hippo_api_Public {
         'MI'=>"Michigan",  
         'MN'=>"Minnesota",  
         'MS'=>"Mississippi",  
-        'MO'=>"Missouri",  
+        'MO'=>"Missouri",   
         'MT'=>"Montana",
         'NE'=>"Nebraska",
         'NV'=>"Nevada",
