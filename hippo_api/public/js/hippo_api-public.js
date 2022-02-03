@@ -17,7 +17,8 @@ $(document).on("submit","#hippo_form",function () {
                   maximumFractionDigits: 2
                 });
                 price = cur.format(price);
-                alert("Quote Premium: "+price);
+                // alert("Quote Premium: "+price);
+                window.location.href= window.location.origin+"/thankyou?price="+price;
                }else{
                    alert(res.errors[0].message);
                 }
